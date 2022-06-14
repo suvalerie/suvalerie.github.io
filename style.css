@@ -1,7 +1,7 @@
 body {background: Aliceblue;}
 h1 {font-size: 65px; color: hotpink; text-align: center;}
-h2 {font-size: 45px; color: lightpink;}
-h3 {font-size: 40px; color: darkslateblue}
-p {font-size: 19px; line-height: 140%;}
-#img1{vertical-align: middle;}
-#img2{vertical-align: middle;}
+h2 {font-size: 47px; color: lightpink;text-align: center}
+p2 {font-size: 47px; color: hotpink;}
+h3 {font-size: 35px; color: #9999CC;}
+p {font-size: 19px; line-height: 180%;}
+figcaption{font-size: 19px; line-height: 250%;}
